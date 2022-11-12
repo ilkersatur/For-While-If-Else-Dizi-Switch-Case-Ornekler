@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.10.2022", "21.10.2022\21.10.2022.csproj", "{DDC64EEC-1EEA-428A-A9F7-9744E0194F64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoslukSayici", "BoslukSayici\BoslukSayici.csproj", "{94091B9E-04D7-4A13-B04B-AAEE3A12A12F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziOrnek", "DiziOrnek\DiziOrnek.csproj", "{9361AE17-8D35-4061-9246-DBC87BD3FACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCaseOrnek", "SwitchCaseOrnek\SwitchCaseOrnek.csproj", "{2A88CD39-D284-4766-994B-C232B1EC4B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToBinary", "DecimalToBinary\DecimalToBinary.csproj", "{E883F859-E76E-4498-93B4-26C59E15ED16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileOrnek", "DoWhileOrnek\DoWhileOrnek.csproj", "{5052AD4B-4134-41DC-8203-5E18A8D5BB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringFor", "StringFor\StringFor.csproj", "{2146E9F2-6BA4-4B30-837E-26DF3271CB8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC64EEC-1EEA-428A-A9F7-9744E0194F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC64EEC-1EEA-428A-A9F7-9744E0194F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC64EEC-1EEA-428A-A9F7-9744E0194F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC64EEC-1EEA-428A-A9F7-9744E0194F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94091B9E-04D7-4A13-B04B-AAEE3A12A12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94091B9E-04D7-4A13-B04B-AAEE3A12A12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94091B9E-04D7-4A13-B04B-AAEE3A12A12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94091B9E-04D7-4A13-B04B-AAEE3A12A12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9361AE17-8D35-4061-9246-DBC87BD3FACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9361AE17-8D35-4061-9246-DBC87BD3FACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9361AE17-8D35-4061-9246-DBC87BD3FACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9361AE17-8D35-4061-9246-DBC87BD3FACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A88CD39-D284-4766-994B-C232B1EC4B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A88CD39-D284-4766-994B-C232B1EC4B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A88CD39-D284-4766-994B-C232B1EC4B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A88CD39-D284-4766-994B-C232B1EC4B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E883F859-E76E-4498-93B4-26C59E15ED16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E883F859-E76E-4498-93B4-26C59E15ED16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E883F859-E76E-4498-93B4-26C59E15ED16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E883F859-E76E-4498-93B4-26C59E15ED16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5052AD4B-4134-41DC-8203-5E18A8D5BB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5052AD4B-4134-41DC-8203-5E18A8D5BB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5052AD4B-4134-41DC-8203-5E18A8D5BB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5052AD4B-4134-41DC-8203-5E18A8D5BB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2146E9F2-6BA4-4B30-837E-26DF3271CB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2146E9F2-6BA4-4B30-837E-26DF3271CB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2146E9F2-6BA4-4B30-837E-26DF3271CB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2146E9F2-6BA4-4B30-837E-26DF3271CB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76ED9584-A3DB-4C4B-BB05-C49AFFB82AF5}
+	EndGlobalSection
+EndGlobal
